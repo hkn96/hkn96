@@ -1,6 +1,6 @@
 
 <img src="https://user-images.githubusercontent.com/63206090/136711156-12ab388c-9103-468a-b9b7-facbe48226f2.gif" align="right" width="400" height="250">
-
+<hr/>
 
 ### 👋 Hi,ich bin Hakan 
 
@@ -21,9 +21,9 @@
 
 
 
-<details align="right">
-<summary align="right">:bulb:  Am häufigsten verwendete Programmiersprachen</summary>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkn96&layout=compact" >
+<details >
+<summary >:bulb:  Am häufigsten verwendete Programmiersprachen</summary>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkn96&layout=compact" >
 </details>
 
 
