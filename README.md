@@ -32,9 +32,12 @@
 
       ✔️ Ich lerne gerade  
 
- <img  src="https://user-images.githubusercontent.com/63206090/136713936-55b59683-20d5-43f3-a606-a8f1ccd36df9.png" width="30"  />
+ <img  src="https://user-images.githubusercontent.com/63206090/136713936-55b59683-20d5-43f3-a606-a8f1ccd36df9.png" width="30"  /> <img  src="https://user-images.githubusercontent.com/63206090/136850346-ce832300-b597-4744-9800-cd9dc5d418ab.png" width="30" height="25"  />
  
  
+
+
+
 
 
 
