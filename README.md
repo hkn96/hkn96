@@ -1,36 +1,37 @@
 
 <img src="https://user-images.githubusercontent.com/63206090/136711156-12ab388c-9103-468a-b9b7-facbe48226f2.gif" align="right" width="400" height="250">
 
+
 ### 👋 Hi,ich bin Hakan 
 
 ### 👨‍💻 Frontend-Entwickler 
 <hr/>
 
       ✔️ Technologie,die ich benutzen kann
-<img align="center"  src="https://user-images.githubusercontent.com/63206090/136712557-f3061540-99c4-4dda-8330-1f437ba793f1.png" width="40" height="40" />
-<img align="left"  src="https://user-images.githubusercontent.com/63206090/136711287-b55a00ce-ab64-4da9-8156-465b5df36ae9.png" width="40" height="40" />
-<img align="left"  src="https://user-images.githubusercontent.com/63206090/136714441-94a480f6-be5d-4f77-8540-4589a6e8d8ad.png" width="40" height="40" />
-<img align="left"  src="https://user-images.githubusercontent.com/63206090/136714566-71fb360a-7d00-45a6-bb49-6704cb2865b8.png" width="40" height="40" />
+![htm](https://user-images.githubusercontent.com/63206090/136827351-39e1ec05-2c1c-400f-b6e6-da1da30cb69c.png)![CSS3](https://user-images.githubusercontent.com/63206090/136827519-339608d1-46ff-4942-8874-dc0273b23530.png)![js](https://user-images.githubusercontent.com/63206090/136827602-2c55d2ce-f3cf-42b4-9557-c37747582415.png)   ![vueyeni](https://user-images.githubusercontent.com/63206090/136827817-da886974-3e71-4cda-84c1-c389e5ff57b6.png)
 
-![git](https://user-images.githubusercontent.com/63206090/136714560-0d2727a1-05bb-4c47-babc-25abca944787.png)
+![git jpg](https://user-images.githubusercontent.com/63206090/136829948-cd5ea010-f60e-42c2-ae2c-8123736edb04.jpg)
+![boot](https://user-images.githubusercontent.com/63206090/136828195-2e126ca8-d23e-4c2f-bd72-e405044d7ae7.jpg)![tailwind](https://user-images.githubusercontent.com/63206090/136714143-2c0adc44-c191-4ac1-8bd8-a9a57114a253.png)
 
 
-![html](https://user-images.githubusercontent.com/63206090/136714175-b6b8d870-569a-40a1-92a6-dc5e84d71ada.png)
-![css](https://user-images.githubusercontent.com/63206090/136714460-57442b10-cbb5-45d4-ad74-4a7c7e9b478c.png)
-![tailwind](https://user-images.githubusercontent.com/63206090/136714143-2c0adc44-c191-4ac1-8bd8-a9a57114a253.png)
+![mongo](https://user-images.githubusercontent.com/63206090/136828837-e7bbc9d8-84f1-460c-8ea6-e206110ffe03.png)
+![node-exp](https://user-images.githubusercontent.com/63206090/136829155-fa1b59d2-863d-4200-9eac-d2f996ce1854.png)
+![PHP](https://user-images.githubusercontent.com/63206090/136830778-20508c5a-72bb-4564-9511-b4905157eaf1.png)
+![MySQL-Logo](https://user-images.githubusercontent.com/63206090/136830927-3c224823-8d64-4c42-9ca2-9bf5e68200fc.png)
 
 
 
 <details align="right">
-<summary>:bulb:  Am häufigsten verwendete Programmiersprachen</summary>
+<summary align="right">:bulb:  Am häufigsten verwendete Programmiersprachen</summary>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkn96&layout=compact" >
 </details>
 
-           ✔️ So erreichen Sie mich 
+
+      ✔️ So erreichen Sie mich 
 [<img   width="35" src="https://user-images.githubusercontent.com/63206090/136712248-ff3d414d-be35-40e6-913b-18d47816b83d.png" align="center" />][linkedin]
 [<img   width="35" src="https://user-images.githubusercontent.com/63206090/136712190-91c3fb96-8b0f-4c70-9192-6c57d020e5f0.png" align="center" />][xing]
 
-           ✔️ Ich lerne gerade  
+      ✔️ Ich lerne gerade  
 
  <img  src="https://user-images.githubusercontent.com/63206090/136713936-55b59683-20d5-43f3-a606-a8f1ccd36df9.png" width="30"  />
  
