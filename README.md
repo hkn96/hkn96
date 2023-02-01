@@ -37,10 +37,7 @@
 [<img   width="26px" src="https://user-images.githubusercontent.com/63206090/136712248-ff3d414d-be35-40e6-913b-18d47816b83d.png" align="center" />][linkedin]
 [<img   width="26px" src="https://user-images.githubusercontent.com/63206090/136712190-91c3fb96-8b0f-4c70-9192-6c57d020e5f0.png" align="center" />][xing]
 
-      ✔️ Ich lerne gerade  
 
- <img  src="https://user-images.githubusercontent.com/63206090/136713936-55b59683-20d5-43f3-a606-a8f1ccd36df9.png" width="26px"  />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/next.png" />
  
  
 
